@@ -16,7 +16,7 @@ import java.time.LocalDate;
 @AllArgsConstructor
 public class ContactRequest {
 
-    @NotBlank(message = "not be null")
+    @NotBlank
     private String fullName;
 
     @NotNull
