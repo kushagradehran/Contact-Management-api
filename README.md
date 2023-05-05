@@ -20,15 +20,15 @@ in address field :
 # create Contact Example:
  ![image](https://user-images.githubusercontent.com/61082684/236441151-1aae805c-982e-4973-95bd-c330cfba2ed8.png)
  
- Validation check Example:
+# Validation check Example:
  ![image](https://user-images.githubusercontent.com/61082684/236441641-6d7394fb-affe-4922-bfff-fe5e0a57891b.png)
 
 # GET /findAllContact endpoint
- example:-
+
  ![image](https://user-images.githubusercontent.com/61082684/236441934-e123ba7a-4cb9-4e2b-b1e6-469262acaa55.png)
 
 # GET /findByZipCode/{zipCode} endpoint
-example:-
+
 ![image](https://user-images.githubusercontent.com/61082684/236442204-1fb205bb-6179-4f6d-8c4a-7bd228022192.png)
 
 # Logging
